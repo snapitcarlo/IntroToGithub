@@ -1,5 +1,6 @@
-Name: Carlo  
-Motivation:
+- Rafael Santos
+  - Email: carlo@snapit.solutions
+  - github: carlosantos11
 
   Let's test our first commit.   
   My motivation for creating this class is to learn and master ruby and ruby on rails myself. The goal is always self improvement. If I can   teach a someone else I can teach myself.
@@ -17,7 +18,9 @@ Motivation:
   Our motivation today is to create our first html page to tell the class more about ourselves.
   Learning style: i learn from watching and looking through examples.
   
-  
-  
-  
- 
+Make good money. Travel. Help people. 
+
+I benefit from all learning styles.
+Reading 
+Videos 
+By example
