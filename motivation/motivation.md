@@ -10,6 +10,12 @@ Motivation:
   
   My goal here is to motivate you and have you feel like this career shift is possible for you. Through hard work and definitive purpose it 
   is possible. 
+
+  Name: Carlo  
+Motivation:
+
+  Our motivation today is to create our first html page to tell the class more about ourselves.
+  Learning style: i learn from watching and looking through examples.
   
   
   
